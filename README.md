@@ -12,48 +12,12 @@ This is a face mask detection project that uses deep learning techniques to dete
 The project uses a public dataset of face mask images, including images of people with and without masks. Download the dataset used in this project [here](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/code).
 
 #-------------------------------#
-## Contributors
-## Team Members
-1- Data Collection & Preparation Lead
-
-Name: Ahmed Amgad Saad, Amr Hussien Saeed
-
-Duties:
-○ Collect relevant datasets from publicly available sources.
-○ Preprocess the data, including tasks like tokenization, normalization, resizing,
-and augmentation.
-○ Handle missing values and create sequences or image batches as needed.
-○ Document the data collection and preprocessing steps for reproducibility.
-
-
-2- Model Design & Training Lead
-
-Name: Kareem Amr Mohamed, Mohamed Taher Badr
-
-
-3- Feature Engineering and Evaluation Lead
-
-Name: Kareem Amr Mohamed, Mohamed Taher Badr
-
-
-4- Visualization and Presentation Lead
-
-Name: Aya Hamed Ahmed, Shahd Ahmed Mohamed, Ganna Hamada Mohamed 
-
-
-5- Deployment and Web Application Lead
-
-Name: Ahmed Amgad Saad, Amr Hussien Saeed
-
-
-6- Documentation and Reporting Lead
-
-Name: Aya Hamed Ahmed, Shahd Ahmed Mohamed, Ganna Hamada Mohamed 
-
-#-------------------------------#
 ## Installation
 To get started, clone this repository and install the required dependencies:
 ```bash
 git clone https://github.com/A7medAmgad/Face_Mask_Detection_Project.git
 cd Face-Mask-Detection
-pip install -r requirements.txt
+pip install -r requirements.txt'''
+
+#-------------------------------#
+
