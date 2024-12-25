@@ -15,25 +15,31 @@ The project uses a public dataset of face mask images, including images of peopl
 ## Contributors
 ## Team Members
 1- Data Collection & Preparation Lead
+
 Name: Ahmed Amgad Saad, Amr Hussien Saeed
 
 2- Model Design & Training Lead
+
 Name: Kareem Amr Mohamed, Mohamed Taher Badr
 
 
 3- Feature Engineering and Evaluation Lead
+
 Name: Kareem Amr Mohamed, Mohamed Taher Badr
 
 
 4- Visualization and Presentation Lead
+
 Name: Aya Hamed Ahmed, Shahd Ahmed Mohamed, Ganna Hamada Mohamed 
 
 
 5- Deployment and Web Application Lead
+
 Name: Ahmed Amgad Saad, Amr Hussien Saeed
 
 
 6- Documentation and Reporting Lead
+
 Name: Aya Hamed Ahmed, Shahd Ahmed Mohamed, Ganna Hamada Mohamed 
 
 #-------------------------------#
