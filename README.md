@@ -18,6 +18,14 @@ The project uses a public dataset of face mask images, including images of peopl
 
 Name: Ahmed Amgad Saad, Amr Hussien Saeed
 
+Duties:
+○ Collect relevant datasets from publicly available sources.
+○ Preprocess the data, including tasks like tokenization, normalization, resizing,
+and augmentation.
+○ Handle missing values and create sequences or image batches as needed.
+○ Document the data collection and preprocessing steps for reproducibility.
+
+
 2- Model Design & Training Lead
 
 Name: Kareem Amr Mohamed, Mohamed Taher Badr
