@@ -12,29 +12,29 @@ This is a face mask detection project that uses deep learning techniques to dete
 The project uses a public dataset of face mask images, including images of people with and without masks. Download the dataset used in this project [here](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/code).
 
 #-------------------------------#
-## Team Members
 ## Contributors
-#-----Data Collection & Preparation Lead-----#
+## Team Members
+1- Data Collection & Preparation Lead
 Name: Ahmed Amgad Saad, Amr Hussien Saeed
 
 #-------------------------------#
-#-----Model Design & Training Lead-----#
+2- Model Design & Training Lead
 Name: Kareem Amr Mohamed, Mohamed Taher Badr
 
 #-------------------------------#
-#-----Feature Engineering and Evaluation Lead-----#
+3- Feature Engineering and Evaluation Lead
 Name: Kareem Amr Mohamed, Mohamed Taher Badr
 
 #-------------------------------#
-#-----Visualization and Presentation Lead-----#
+4- Visualization and Presentation Lead
 Name: Aya Hamed Ahmed, Shahd Ahmed Mohamed, Ganna Hamada Mohamed 
 
 #-------------------------------#
-#-----Deployment and Web Application Lead-----#
+5- Deployment and Web Application Lead
 Name: Ahmed Amgad Saad, Amr Hussien Saeed
 
 #-------------------------------#
-#-----Documentation and Reporting Lead-----#
+6- Documentation and Reporting Lead
 Name: Aya Hamed Ahmed, Shahd Ahmed Mohamed, Ganna Hamada Mohamed 
 
 #-------------------------------#
