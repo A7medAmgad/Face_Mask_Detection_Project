@@ -15,9 +15,9 @@ The project uses a public dataset of face mask images, including images of peopl
 ## Installation
 To get started, clone this repository and install the required dependencies:
 ```bash
+#-------------------------------#
 git clone https://github.com/A7medAmgad/Face_Mask_Detection_Project.git
 cd Face-Mask-Detection
-pip install -r requirements.txt'''
-
+pip install -r requirements.txt
 #-------------------------------#
 
