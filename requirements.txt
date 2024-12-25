@@ -1,7 +1,12 @@
 #----------------#
 tensorflow==2.11.0
+Pytorch
+torchvision
+os
+google.colab
 numpy
 matplotlib
 opencv-python
 scikit-learn
+streamlit
 #----------------#
