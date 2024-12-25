@@ -11,6 +11,21 @@ This is a face mask detection project that uses deep learning techniques to dete
 ## Dataset
 The project uses a public dataset of face mask images, including images of people with and without masks. Download the dataset used in this project [here](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/code).
 
+#-------------------------------#
+## Contributors
+Member 1:
+
+Member 2:
+
+Member 3:
+
+Member 4:
+
+Member 5:
+
+Member 6:
+
+Member 7:
 
 #-------------------------------#
 ## Installation
