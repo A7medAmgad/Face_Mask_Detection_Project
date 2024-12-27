@@ -16,6 +16,6 @@ To get started, clone this repository and install the required dependencies:
 #-------------------------------#
 git clone https://github.com/A7medAmgad/Face_Mask_Detection_Project.git
 cd Face-Mask-Detection
-install -r requirements.txt
+pip install -r requirements.txt
 #-------------------------------#
 
